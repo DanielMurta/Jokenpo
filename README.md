@@ -1,1 +1,2 @@
-Game pedra papel tesoura 1.0
+Game pedra papel tesoura 2.0
+
